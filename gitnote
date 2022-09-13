@@ -1,4 +1,6 @@
-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
+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
 
 https://github.com/daisyshan768/daisy.git
 
+git config --global user.email "shanfangqiang@gmail.com"
+git config --global user.name "daisyshan768"
